@@ -54,3 +54,7 @@ In supervised Learning, we are going to have
 In classification problem, we have inputs, an algorithm and outputs.
 
 This output is basically a class.
+
+A lot of these algorithms are going to be defined by the output that they produce.
+
+For classification, we have quality of outputs
