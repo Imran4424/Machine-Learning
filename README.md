@@ -64,7 +64,7 @@ A classification problem can have multiple classes as outputs depending upon the
 
 A use of classification algorithm is **Pattern Recognition**
 
-#### Pattern Recognition problems are
+##### Pattern Recognition problems are
 
 - Optical Character Recognition
 - Face recognition
@@ -74,6 +74,6 @@ A use of classification algorithm is **Pattern Recognition**
 
 Another use of classification algorithm is **Knowledge Extraction**
 
-#### Knowledge Extraction
+##### Knowledge Extraction
 
 Knowledge extraction means learning a rule from data. All of machine learning is really knowledge extraction. However, we are talking about the specific rule that is learned from the past. In this scenario, learned from the past data.
