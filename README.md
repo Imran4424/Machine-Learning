@@ -2,7 +2,7 @@
 
 What we lack in knowledge, we make up for in data
 
-Machine Learning is inferring knowledge from data. **Learning - optimizing a performance criterion.**
+Machine Learning is inferring knowledge from data. Learning - optimizing a performance criterion.
 
 **Machine learning is simply programming computers to optimize a performance criteria on using an example data or past experience**
 
