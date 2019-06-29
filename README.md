@@ -61,3 +61,13 @@ A lot of these algorithms are going to be defined by the output that they produc
 For classification, we have quality of outputs. This is the Defining feature of classification algorithm.
 
 A classification problem can have multiple classes as outputs depending upon the input dimention.
+
+A use of classification algorithm is **Pattern Recognition**
+
+#### Pattern Recognition problems are
+
+- Optical Character Recognition
+- Face recognition
+- Medical Diagonosis
+- Speech Recognition
+- Hand
