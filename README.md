@@ -50,7 +50,7 @@ In supervised Learning, we are going to have
 - Classifying emails as spam or not spam (Classification problem)
 - Handwritten Digit Recognition (Classification problem)
 
-### Classification Problem
+### Classification Algorithm
 
 In classification problem, we have inputs, an algorithm and outputs.
 
@@ -80,3 +80,4 @@ Knowledge extraction means learning a rule from data. All of machine learning is
 
 Classification algorithm can also be used in **compression**. Another use of classification algorithm is **outlier detection**
 
+### Regression algorithm
