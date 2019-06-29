@@ -9,6 +9,12 @@ Machine Learning
 - Grew out of work in AI
 - New Capability for computers
 
+#### Formal Definition
+
+Arthur Samuels Describes **Machine Learning is a field of study that gives computers the ability to learn without being explicitly programmed.**
+
+
+
 # Types and Applications of Machine Learning
 
 # Artificial Intelligence vs Machine Learning
