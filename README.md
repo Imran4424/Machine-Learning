@@ -94,4 +94,4 @@ In unspervised learning we only have input data. We have no label responses for 
 
 We only have input data to work with and don't necessarily know what we are looking for. However, we do have a goal. We are going to try to find regularities in the input for unsupervised learning.
 
-We are making an assumption that there is a structure to the input space such that certain pattern occurs more often than the others and we want to 
+We are making an assumption that there is a structure to the input space such that certain pattern occurs more often than the others and we want to see what generally happens and what is not.
