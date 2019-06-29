@@ -22,9 +22,11 @@ Arthur Samuels Describes **Machine Learning is a field of study that gives compu
 - Classifying emails as spam or not spam
 - Google Search Engine
 - Facebook photo recognization
--  
+
 
 # Types and Applications of Machine Learning
+
+There are basically three
 
 # Artificial Intelligence vs Machine Learning
 
