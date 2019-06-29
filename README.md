@@ -38,3 +38,8 @@ There are basically three types of Machine Learning
 
 # Supervised Learning
 
+In supervised Learning, we are going to have
+
+- Inputs
+- Outputs
+- 
