@@ -42,4 +42,9 @@ In supervised Learning, we are going to have
 
 - Inputs
 - Outputs
-- 
+- An Algorithm
+  
+#### Supervised Learning Examples
+
+- Classifying emails as spam or not spam
+- Handwritten Digit Recognition
