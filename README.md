@@ -6,7 +6,7 @@ Machine Learning is inferring knowledge from data. **Learning - optimizing a per
 
 **Machine learning is simply programming computers to optimize a performance criteria on using an example data or past experience**
 
-We have a model defined up to some parameters and learning is going to be the execution of a computer program to optimize the parameters of the model using the training data or past experiences.
+We have a model defined up to some parameters and learning is going to be the execution of a computer program to optimize the parameters of the model using the training data or past experience.
 
 Machine Learning
 
