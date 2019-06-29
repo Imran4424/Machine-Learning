@@ -92,4 +92,4 @@ The output is basically a number. **Quantitative Output**
 
 In unspervised learning we only have input data. We have no label responses for these scenarios.
 
-We only have input data to work with and don't necessarily know what we are looking for. However, we do have a goal. We are going to try to find regularities in the input for 
+We only have input data to work with and don't necessarily know what we are looking for. However, we do have a goal. We are going to try to find regularities in the input for unsupervised learning
