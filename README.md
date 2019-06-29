@@ -22,7 +22,7 @@ Arthur Samuels Describes **Machine Learning is a field of study that gives compu
 - Classifying emails as spam or not spam
 - Google Search Engine
 - Facebook photo recognization
-- Credit Scoring (Determining client situation in Bank)
+- Credit Scoring (Determining bank client situation)
 
 
 # Types and Applications of Machine Learning
