@@ -13,7 +13,9 @@ Machine Learning
 
 Arthur Samuels Describes **Machine Learning is a field of study that gives computers the ability to learn without being explicitly programmed.**
 
+#### Machine Learning Examples
 
+- Classifying emails as spam or not spam 
 
 # Types and Applications of Machine Learning
 
