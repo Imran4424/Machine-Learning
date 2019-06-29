@@ -70,4 +70,4 @@ A use of classification algorithm is **Pattern Recognition**
 - Face recognition
 - Medical Diagonosis
 - Speech Recognition
-- Hand
+- Handwritten Digit recognition
