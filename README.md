@@ -49,5 +49,8 @@ In supervised Learning, we are going to have
 - Classifying emails as spam or not spam (Classification problem)
 - Handwritten Digit Recognition (Classification problem)
 
-### Classification problem
+### Classification Problem
 
+In classification problem, we have inputs, an algorithm and outputs.
+
+This output is basically a class.
