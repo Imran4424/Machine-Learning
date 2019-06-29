@@ -76,3 +76,4 @@ Another use of classification algorithm is **Knowledge Extraction**
 
 #### Knowledge Extraction
 
+Knowledge extraction means learning a rule from data.
