@@ -57,4 +57,4 @@ This output is basically a class.
 
 A lot of these algorithms are going to be defined by the output that they produce.
 
-For classification, we have quality of outputs.
+For classification, we have quality of outputs. This is the Defining feature of classification problem.
