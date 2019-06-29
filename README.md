@@ -81,3 +81,5 @@ Knowledge extraction means learning a rule from data. All of machine learning is
 Classification algorithm can also be used in **compression**. Another use of classification algorithm is **outlier detection**
 
 ### Regression algorithm
+
+In regress algorithm we have inputs, an algorithm and the outputs. Here, the outputs will be a number.
