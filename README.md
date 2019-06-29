@@ -46,5 +46,5 @@ In supervised Learning, we are going to have
   
 #### Supervised Learning Examples
 
-- Classifying emails as spam or not spam
-- Handwritten Digit Recognition
+- Classifying emails as spam or not spam (Classification problem)
+- Handwritten Digit Recognition (Classification problem)
