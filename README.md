@@ -82,4 +82,7 @@ Classification algorithm can also be used in **compression**. Another use of cla
 
 ### Regression algorithm
 
-In regress algorithm we have inputs, an algorithm and the outputs. Here, the outputs will be a number.
+In regress algorithm we have inputs, an algorithm and the outputs.
+
+The output is basically a number. **Quantitative Output**
+
