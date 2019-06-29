@@ -26,7 +26,11 @@ Arthur Samuels Describes **Machine Learning is a field of study that gives compu
 
 # Types and Applications of Machine Learning
 
-There are basically three
+There are basically three types of Machine Learning
+
+- Supervised Learning
+- Unsupervised Learning
+- Reinforcement Learning
 
 # Artificial Intelligence vs Machine Learning
 
