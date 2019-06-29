@@ -91,3 +91,5 @@ The output is basically a number. **Quantitative Output**
 # Unsupervised Learning
 
 In unspervised learning we only have input data. We have no label responses for these scenarios.
+
+We only have input data to work with and don't necessarily know what we are looking for.
