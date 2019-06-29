@@ -71,3 +71,8 @@ A use of classification algorithm is **Pattern Recognition**
 - Medical Diagonosis
 - Speech Recognition
 - Handwritten Digit recognition
+
+Another use of classification algorithm is **Knowledge Extraction**
+
+#### Knowledge Extraction
+
