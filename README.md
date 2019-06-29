@@ -4,7 +4,10 @@ What we lack in knowledge, we make up for in data
 
 Machine Learning is inferring knowledge from data. **Learning - optimizing a performance criterion.**
 
+Machine Learning
 
+- Grew out of work in AI
+- New Capability for computers
 
 # Types and Applications of Machine Learning
 
