@@ -76,4 +76,4 @@ Another use of classification algorithm is **Knowledge Extraction**
 
 #### Knowledge Extraction
 
-Knowledge extraction means learning a rule from data. All of machine learning is really knowledge extraction. However, we are talking about the specific rule that is learned from the past.
+Knowledge extraction means learning a rule from data. All of machine learning is really knowledge extraction. However, we are talking about the specific rule that is learned from the past. In this scenario, learned from the past data.
