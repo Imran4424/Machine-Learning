@@ -86,3 +86,5 @@ In regress algorithm we have inputs, an algorithm and the outputs.
 
 The output is basically a number. **Quantitative Output**
 
+**Example:** Used car price
+
