@@ -78,3 +78,5 @@ Another use of classification algorithm is **Knowledge Extraction**
 
 Knowledge extraction means learning a rule from data. All of machine learning is really knowledge extraction. However, we are talking about the specific rule that is learned from the past. In this scenario, learned from the past data.
 
+Classification algorithm can also be used in **compression**. Another use of classification algorithm is **outlier detection**
+
