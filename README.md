@@ -111,4 +111,4 @@ In machine learning, this is called clustering. The aim is to find clusters or g
 
 #### Example
 
-- Game
+- Game Playing
