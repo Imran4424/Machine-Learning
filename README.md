@@ -98,4 +98,15 @@ We are making an assumption that there is a structure to the input space such th
 
 In statistics, this is called density estimation. We assume that the input space is structured again as a result certain patterns are going to occur more often than others and we want to look for these patterns so that we can use them in different scenarios.
 
-In machine learning, this is called clustering. The aim is to find clusters or groups of inputs that naturally separate towards each other. 
+In machine learning, this is called clustering. The aim is to find clusters or groups of inputs that naturally separate towards each other.
+
+#### Clustering examples
+
+- Clustering customer data
+- Document clustering
+
+# Reinforcement Learning
+
+
+
+#### Exam
