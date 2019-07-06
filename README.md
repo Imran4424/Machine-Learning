@@ -35,6 +35,8 @@ There are basically three types of Machine Learning
 
 # Artificial Intelligence vs Machine Learning
 
+
+
 # Essential mathematics for ML and AI
 
 # Supervised Learning
