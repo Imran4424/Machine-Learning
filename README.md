@@ -8,6 +8,8 @@ Machine Learning is inferring knowledge from data. Learning - optimizing a perfo
 
 We have a model defined up to some parameters and learning is going to be the execution of a computer program to optimize the parameters of the model using the training data or past experience.
 
+Data is really important for machine learning because machine learning relys on past experience.
+
 Machine Learning
 
 - Grew out of work in AI
