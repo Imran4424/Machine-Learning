@@ -34,9 +34,9 @@ There are basically three types of Machine Learning
 
 # Artificial Intelligence vs Machine Learning
 
-Artificial Intelligence is a technical buzzword now.
+Artificial Intelligence and Machine Learning are technical buzzword now.
 
-
+But, people often confused between them.
 
 #### Artificial Intelligence
 
