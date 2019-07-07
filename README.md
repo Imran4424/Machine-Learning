@@ -55,7 +55,8 @@ As I said, machine learning is a subset of artificial intelligence. So let's say
 Then let's see now, what's not machine learning to better understand the difference.
 
 - Machine learning is not based on logic it is based on statistics
-- Machine learning has not understanding of the world.
+- Machine learning has not understanding of the world
+- Machine learning is not study of neuro science
 
 # Essential mathematics for ML and AI
 
