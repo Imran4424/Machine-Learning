@@ -24,8 +24,7 @@ Arthur Samuels Describes **Machine Learning is a field of study that gives compu
 - Facebook photo recognization
 - Credit Scoring (Determining bank client situation)
 
-
-# Types and Applications of Machine Learning
+#### Types and Applications of Machine Learning
 
 There are basically three types of Machine Learning
 
@@ -35,7 +34,19 @@ There are basically three types of Machine Learning
 
 # Artificial Intelligence vs Machine Learning
 
+Artificial Intelligence is a technical buzzword now.
 
+
+
+#### Artificial Intelligence
+
+Artificial Intelligence is the theory and development of computer systems that able to perform tasks that normally requires human intelligence, such as visual perception, speech recognition, decision making and translation between languages.
+
+#### Machine Learning
+
+Machine Learning is a subset of artificial intelligence.
+
+Arthur Samuels Describes **Machine Learning is a field of study that gives computers the ability to learn without being explicitly programmed.**
 
 # Essential mathematics for ML and AI
 
