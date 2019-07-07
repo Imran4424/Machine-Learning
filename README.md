@@ -52,6 +52,8 @@ Arthur Samuels Describes **Machine Learning is a field of study that gives compu
 
 As I said, machine learning is a subset of artificial intelligence. So let's say it old school way, Every machine learning project or theories are artificial intelligence but every artificial intelligence theories or projects are not machine learning.
 
+Then let's see now, what's not machine learning to better understand the difference.
+
 # Essential mathematics for ML and AI
 
 # Supervised Learning
