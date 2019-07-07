@@ -50,6 +50,8 @@ Machine Learning is a subset of artificial intelligence.
 
 Arthur Samuels Describes **Machine Learning is a field of study that gives computers the ability to learn without being explicitly programmed.**
 
+As I said, machine learning is a subset of artificial intelligence. So let's say it old school way, Every machine learning project or theories are artificial intelligence but every artificial intelligence theories or projects are not machine learning.
+
 # Essential mathematics for ML and AI
 
 # Supervised Learning
