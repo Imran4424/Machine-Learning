@@ -140,7 +140,7 @@ In machine learning, this is called clustering. The aim is to find clusters or g
 Reinforcement learning neither supervised learning nor unsupervised learning.
 
 Reinforcement learning have inputs sometimes which is called observations, we also have algorithm and then we are going to have a sequence of actions. And here, those sequence of actions is called outputs.
-  
+   
 The outputs here isn't a class, it is numerical but it is going to be combinations of actions that allow us to reach our goal.
 
 #### Example
