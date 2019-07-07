@@ -70,7 +70,7 @@ The important mathematics for machine learning and AI are
 # Supervised Learning
 
 In supervised Learning, we are going to have
-
+ 
 - Inputs
 - Outputs
 - An Algorithm
