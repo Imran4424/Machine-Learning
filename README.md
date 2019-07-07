@@ -58,7 +58,14 @@ Then let's see now, what's not machine learning to better understand the differe
 - Machine learning has not understanding of the world
 - Machine learning is not study of neuro science
 
-# Essential mathematics for ML and AI
+### Essential mathematics for ML and AI
+
+The important mathematics for machine learning and AI are
+
+- Linear Algebra
+- Multivariative Calculus
+- Probability Theory
+- Statistics
 
 # Supervised Learning
 
