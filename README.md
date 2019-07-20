@@ -74,6 +74,12 @@ In supervised Learning, we are going to have
 - Inputs
 - Outputs
 - An Algorithm
+
+#### Notations
+m = Number of training example
+x = input variable / feature
+y = output variable / feature
+
   
 #### Supervised Learning Examples
 
