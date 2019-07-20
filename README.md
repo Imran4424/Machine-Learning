@@ -79,6 +79,9 @@ In supervised Learning, we are going to have
 m = Number of training example
 x = input variable / feature
 y = output variable / feature
+(x, y) = one training example
+(x<sub>i</sub>, x<sub>i</sub>) = i-th training example (i-th row of a table)
+
 
   
 #### Supervised Learning Examples
